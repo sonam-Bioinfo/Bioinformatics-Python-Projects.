@@ -7,7 +7,7 @@ I am a teacher and a learner exploring the world of Bioinformatics. This reposit
 ### ✅ Programs Completed:
 1. **Hello Bioinfo** - Initial setup test.
 2. **DNA Sequence Analysis** - Calculating length and counting bases (A, T, G, C).
-
+3. **DNA to RNA Transcription** - Converting Thymine (T) to Uracil (U).
 ## ⭐ Support
 If you find these programs helpful for your studies, please give this repository a **Star**! It motivates me to learn and share more.
 
